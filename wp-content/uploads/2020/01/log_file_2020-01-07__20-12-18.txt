@@ -1,0 +1,48 @@
+
+---Downloaded files---
+The import files for: Boutique Hotel were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888/wordpress
+Data file = /Applications/MAMP/htdocs/wordpress/wp-content/themes/hoteller/cache/demos/xml/demo7/7.xml
+Widget file = /Applications/MAMP/htdocs/wordpress/wp-content/themes/hoteller/cache/demos/xml/demo7/7.wie
+Customizer file = /Applications/MAMP/htdocs/wordpress/wp-content/themes/hoteller/cache/demos/xml/demo7/7.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+side-menu-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Recherche Disponibilité - Check Availibility - Imported to Inactive
+
+Page Sidebar : 
+
+Recherche Disponibilité - Book Your Stay - Imported
+Texte - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
